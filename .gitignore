@@ -1,3 +1,4 @@
 "config.env" 
 "secret.env" 
 "# Ignore secret files" 
+"secret.env" 
