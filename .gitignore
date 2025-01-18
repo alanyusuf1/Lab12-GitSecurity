@@ -2,3 +2,4 @@
 "secret.env" 
 "# Ignore secret files" 
 "secret.env" 
+"# Secret files ignored" 
